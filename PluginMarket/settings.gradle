@@ -1,0 +1,3 @@
+include ':pluginStanded'
+include ':app'
+rootProject.name = "PluginMarket"
